@@ -1,5 +1,7 @@
 # hackerrank-cloud-jumping-solution
 
+//the simplest solution
+
 
 #include <bits/stdc++.h>
 
